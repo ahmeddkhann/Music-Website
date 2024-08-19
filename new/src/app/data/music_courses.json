@@ -1,0 +1,85 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Guitar Fundamentals",
+            "slug": "guitar-fundamentals",
+            "description": "Learn the basics of guitar playing guitar with our comprehensive beginner course.",
+            "price" : 99.99,
+            "instructor": "John Doe",
+            "isFeatured": true,
+             "image" : "/courses/guitar.png.png"
+        },
+        {
+            "id": 2,
+            "title": "Piano for begineers",
+            "slug": "piano - for begineers",
+            "description": "Learn the basics of piano playing piano with our comprehensive beginner course.",
+            "price" : 120,
+            "instructor": "Smith Bob",
+            "isFeatured": true,
+            "image" : "/courses/piano.png.png"       
+        },
+        {
+            "id": 3,
+            "title": "Violent Fundamentals",
+            "slug": "-fundamentals",
+            "description": "Learn the basics of guitar playing guitar with our comprehensive beginner course.",
+            "price" : 199.99,
+            "instructor": "Mark Cook",
+            "isFeatured": true,
+            "image" : "/courses/violent.png.png"
+        },
+        {
+            "id": 4,
+            "title": "Trumpet Fundamentals",
+            "slug": "trumpet-fundamentals",
+            "description": "Learn the basics of trumpet playing trumpet with our comprehensive beginner course.",
+            "price" : 79.99,
+            "instructor": "William Anderson",
+            "isFeatured": false,
+            "image" : "/courses/trumpet.png.png"
+        },
+        {
+            "id": 5,
+            "title": "Drum Fundamentals",
+            "slug": "drum-fundamentals",
+            "description": "Learn the basics of drum playing drum with our comprehensive beginner course.",
+            "price" : 49.99,
+            "instructor": "Patrick",
+            "isFeatured": true,
+            "image" : "/courses/drum.png.png"
+        },
+        {
+            "id": 6,
+            "title": "Oboe Fundamentals",
+            "slug": "trumpet-fundamentals",
+            "description": "Learn the basics of oboe playing oboe with our comprehensive beginner course.",
+            "price" : 100,
+            "instructor": "Bob Wolmer",
+            "isFeatured": false,
+            "image" : "/courses/oboe.png.png"
+        },
+        {
+            "id": 7,
+            "title": "Banjo Fundamentals",
+            "slug": "trumpet-fundamentals",
+            "description": "Learn the basics of banjo playing banjo with our comprehensive beginner course.",
+            "price" : 199.99,
+            "instructor": "Smith Doe",
+            "isFeatured": true,
+            "image": "/courses/banjo.png.png"
+        },
+        {
+            "id": 8,
+            "title": "Sitar Fundamentals",
+            "slug": "sitar-fundamentals",
+            "description": "Learn the basics of sitar playing sitar with our comprehensive beginner course.",
+            "price" : 149.99,
+            "instructor": "Buttler brown",
+            "isFeatured": true,
+            "image" : "/courses/sitar.png.png"
+        }
+
+    ]
+}
